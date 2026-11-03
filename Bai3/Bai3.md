@@ -7,6 +7,7 @@ Họ tên: ... · MSSV: ... · Nhóm: ...
 - fsm_diagram.png — sơ đồ trạng thái
 - serial_log.txt — log Serial của cả 3 ca
 ![FSM diagram](fsm_diagram.png)
+![Hiển thị trang web](Screenshot 2026-11-03 091130.png)
 
 ## 4.1 Cấu hình phần cứng
 
