@@ -6,7 +6,6 @@ Họ tên: ... · MSSV: ... · Nhóm: ...
 - control.ino — firmware máy trạng thái DỪNG/CHẠY/LỖI (có ISR + timer), kèm giao diện web WebSocket
 - fsm_diagram.png — sơ đồ trạng thái
 - serial_log.txt — log Serial của cả 3 ca
-![FSM diagram](fsm_diagram.png)
 ![Hiển thị trang web](Screenshot.png)
 
 ## 4.1 Cấu hình phần cứng
