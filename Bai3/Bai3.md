@@ -47,7 +47,7 @@ Chu kỳ timer phần cứng đo thực tế **lệch 0,0000 % (trung bình đú
 
 Giới hạn thời gian chạy đã chọn là **20 s** (`MAX_RUN_MS`, nằm trong khoảng 10–30 s đề gợi ý), duty mặc định 90 %. Hệ có thêm cooldown 5 s sau mỗi lần về DỪNG và giữ trạng thái LỖI 3 s trước khi về DỪNG. 
 
-| Ca | Đầu vào | Kỳ vọng / Đạt? |
+| Ca | Đầu vào | Kỳ vọng | Đạt? |
 |---|---|---|---|
 | 1. Bình thường | Gửi `ON` khi đang DỪNG, hết cooldown, DHT đọc hợp lệ | Log `-> CHAY (duty=90%, toi da 20 s)`, bơm chạy | Đạt |
 | 2. Quá giờ | Giữ CHẠY, không gửi `OFF` | Sau 20 s log `-> DUNG (het gio)`, bơm tắt | Đạt |
