@@ -12,12 +12,7 @@
  * Lệnh (Serial 115200 hoặc từ web, dùng chung một đường xử lý):
  *   ON | OFF | PWM <1-100> | STATUS | CMP | CMPRESET
  *   Lệnh khác khi đang CHAY -> LOI
- *
- * Yêu cầu: ESP32 Arduino core 3.x
- * Thư viện: "DHT sensor library" + "Adafruit Unified Sensor" (Adafruit),
- *           "WebSockets" (Markus Sattler / Links2004)
- * Web: http://<IP>/ hoặc http://esp32-pump.local/  (WebSocket cổng 81)
- */
+
 
 #include <Arduino.h>
 #include <stdarg.h>
@@ -28,8 +23,8 @@
 #include <DHT.h>
 
 // ===================== CẤU HÌNH =====================
-const char* WIFI_SSID = "TN-WF-T3";        // <-- đổi thành WiFi của bạn
-const char* WIFI_PASS = "TriNam123$$";        // <-- đổi
+const char* WIFI_SSID = "";        // <-- đổi thành WiFi của bạn
+const char* WIFI_PASS = "";        // <-- đổi
 const char* AP_SSID   = "ESP32-Pump";      // phát WiFi riêng nếu không kết nối được
 const char* AP_PASS   = "12345678";
 constexpr uint32_t WIFI_TIMEOUT_MS = 10000;
