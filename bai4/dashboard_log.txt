@@ -1,0 +1,141 @@
+[238221] DHT: T=27.7C H=50.0%
+[238254] HB: safety beat=11503 state=DUNG mqtt=UP queue=0/10 drop=0
+[240221] DHT: T=27.7C H=50.1%
+[240254] HB: safety beat=11603 state=DUNG mqtt=UP queue=0/10 drop=0
+[242221] DHT: T=27.7C H=50.1%
+[242254] HB: safety beat=11703 state=DUNG mqtt=UP queue=0/10 drop=0
+[244221] DHT: T=27.7C H=50.0%
+[244254] HB: safety beat=11803 state=DUNG mqtt=UP queue=0/10 drop=0
+[246221] DHT: T=27.8C H=50.1%
+[246254] HB: safety beat=11903 state=DUNG mqtt=UP queue=0/10 drop=0
+[248221] DHT: T=27.8C H=50.1%
+[248254] HB: safety beat=12003 state=DUNG mqtt=UP queue=0/10 drop=0
+[250221] DHT: T=27.8C H=50.1%
+[250254] HB: safety beat=12103 state=DUNG mqtt=UP queue=0/10 drop=0
+[252221] DHT: T=27.7C H=50.1%
+[252254] HB: safety beat=12203 state=DUNG mqtt=UP queue=0/10 drop=0
+[254221] DHT: T=27.7C H=50.1%
+[254254] HB: safety beat=12303 state=DUNG mqtt=UP queue=0/10 drop=0
+[256221] DHT: T=27.7C H=50.1%
+[256254] HB: safety beat=12403 state=DUNG mqtt=UP queue=0/10 drop=0
+[258221] DHT: T=27.7C H=50.1%
+[258254] HB: safety beat=12503 state=DUNG mqtt=UP queue=0/10 drop=0
+[260221] DHT: T=27.7C H=50.1%
+[260254] HB: safety beat=12603 state=DUNG mqtt=UP queue=0/10 drop=0
+[262221] DHT: T=27.7C H=50.1%
+[262254] HB: safety beat=12703 state=DUNG mqtt=UP queue=0/10 drop=0
+[263614] CMD: ON
+[263614] -> CHAY (duty=90%, toi da 20 s)
+[264221] DHT: T=27.8C H=50.1%
+[264254] HB: safety beat=12803 state=CHAY mqtt=UP queue=0/10 drop=0
+[266221] DHT: T=27.8C H=50.1%
+[266254] HB: safety beat=12903 state=CHAY mqtt=UP queue=0/10 drop=0
+[268221] DHT: T=27.7C H=50.1%
+[268254] HB: safety beat=13003 state=CHAY mqtt=UP queue=0/10 drop=0
+[270221] DHT: T=27.8C H=50.1%
+[270254] HB: safety beat=13103 state=CHAY mqtt=UP queue=0/10 drop=0
+[272221] DHT: T=27.8C H=50.0%
+[272254] HB: safety beat=13203 state=CHAY mqtt=UP queue=0/10 drop=0
+[274221] DHT: T=27.7C H=50.1%
+[274254] HB: safety beat=13303 state=CHAY mqtt=UP queue=0/10 drop=0
+[276221] DHT: T=27.8C H=50.1%
+[276254] HB: safety beat=13403 state=CHAY mqtt=UP queue=0/10 drop=0
+[278221] DHT: T=27.7C H=50.1%
+[278254] HB: safety beat=13503 state=CHAY mqtt=UP queue=0/10 drop=0
+[280221] DHT: T=27.8C H=50.1%
+[280254] HB: safety beat=13603 state=CHAY mqtt=UP queue=0/10 drop=0
+[282221] DHT: T=27.8C H=50.1%
+[282254] HB: safety beat=13703 state=CHAY mqtt=UP queue=0/10 drop=0
+[283614] -> DUNG (het gio)
+[284221] DHT: T=27.8C H=50.2%
+[284254] HB: safety beat=13803 state=DUNG mqtt=UP queue=0/10 drop=0
+[286221] DHT: T=27.8C H=50.1%
+[286254] HB: safety beat=13903 state=DUNG mqtt=UP queue=0/10 drop=0
+[288221] DHT: T=27.8C H=50.1%
+[288254] HB: safety beat=14003 state=DUNG mqtt=UP queue=0/10 drop=0
+[290221] DHT: T=27.8C H=50.2%
+[290254] HB: safety beat=14103 state=DUNG mqtt=UP queue=0/10 drop=0
+[292221] DHT: T=27.8C H=50.1%
+[292254] HB: safety beat=14203 state=DUNG mqtt=UP queue=0/10 drop=0
+[294221] DHT: T=27.8C H=52.4%
+[294254] HB: safety beat=14303 state=DUNG mqtt=UP queue=0/10 drop=0
+[296221] DHT: T=27.8C H=53.0%
+[296254] HB: safety beat=14403 state=DUNG mqtt=UP queue=0/10 drop=0
+[298221] DHT: T=27.8C H=52.9%
+[298254] HB: safety beat=14503 state=DUNG mqtt=UP queue=0/10 drop=0
+[300221] DHT: T=27.8C H=52.4%
+[300254] HB: safety beat=14603 state=DUNG mqtt=UP queue=0/10 drop=0
+[302221] DHT: T=27.8C H=52.0%
+[302254] HB: safety beat=14703 state=DUNG mqtt=UP queue=0/10 drop=0
+[304221] DHT: T=27.8C H=51.6%
+[304254] HB: safety beat=14803 state=DUNG mqtt=UP queue=0/10 drop=0
+[306221] DHT: T=27.8C H=51.3%
+[306254] HB: safety beat=14903 state=DUNG mqtt=UP queue=0/10 drop=0
+[308134] CMD: ON
+[308134] -> CHAY (duty=90%, toi da 20 s)
+[308221] DHT: T=27.8C H=51.0%
+[308254] HB: safety beat=15003 state=CHAY mqtt=UP queue=0/10 drop=0
+[310221] DHT: T=27.8C H=50.8%
+[310254] HB: safety beat=15103 state=CHAY mqtt=UP queue=0/10 drop=0
+[312221] DHT: T=27.8C H=50.6%
+[312254] HB: safety beat=15203 state=CHAY mqtt=UP queue=0/10 drop=0
+[314221] DHT: T=27.8C H=50.5%
+[314254] HB: safety beat=15303 state=CHAY mqtt=UP queue=0/10 drop=0
+[316221] DHT: T=27.8C H=50.4%
+[316254] HB: safety beat=15403 state=CHAY mqtt=UP queue=0/10 drop=0
+[318221] DHT: T=27.8C H=50.4%
+[318254] HB: safety beat=15503 state=CHAY mqtt=UP queue=0/10 drop=0
+[320221] DHT: T=27.8C H=50.4%
+[320254] HB: safety beat=15603 state=CHAY mqtt=UP queue=0/10 drop=0
+[320554] CMD: SLOW 0
+[320554] THU TAI: task MQTT cham them 0 ms moi vong
+[322221] DHT: T=27.8C H=50.4%
+[322254] HB: safety beat=15703 state=CHAY mqtt=UP queue=0/10 drop=0
+[324221] DHT: T=27.8C H=50.4%
+[324254] HB: safety beat=15803 state=CHAY mqtt=UP queue=0/10 drop=0
+[325754] CMD: OFF
+[325754] -> DUNG (lenh OFF)
+[326221] DHT: T=27.8C H=50.3%
+[326254] HB: safety beat=15903 state=DUNG mqtt=UP queue=0/10 drop=0
+[328221] DHT: T=27.8C H=50.3%
+[328254] HB: safety beat=16003 state=DUNG mqtt=UP queue=0/10 drop=0
+[330221] DHT: T=27.8C H=50.3%
+[330254] HB: safety beat=16103 state=DUNG mqtt=UP queue=0/10 drop=0
+[332221] DHT: T=27.8C H=50.2%
+[332254] HB: safety beat=16203 state=DUNG mqtt=UP queue=0/10 drop=0
+[333554] CMD: SLOW 0
+[333554] THU TAI: task MQTT cham them 0 ms moi vong
+[334221] DHT: T=27.8C H=50.3%
+[334254] HB: safety beat=16303 state=DUNG mqtt=UP queue=0/10 drop=0
+[335394] CMD: STATUS
+[335394] STATE=DUNG duty=90% mqtt=1 queue=0/10 sent=164 drop=0 pubfail=0
+[336221] DHT: T=27.8C H=50.3%
+[336254] HB: safety beat=16403 state=DUNG mqtt=UP queue=0/10 drop=0
+[338221] DHT: T=27.8C H=50.2%
+[338254] HB: safety beat=16503 state=DUNG mqtt=UP queue=0/10 drop=0
+[340221] DHT: T=27.8C H=50.3%
+[340254] HB: safety beat=16603 state=DUNG mqtt=UP queue=0/10 drop=0
+[342221] DHT: T=27.8C H=50.3%
+[342254] HB: safety beat=16703 state=DUNG mqtt=UP queue=0/10 drop=0
+[344221] DHT: T=27.8C H=50.4%
+[344254] HB: safety beat=16803 state=DUNG mqtt=UP queue=0/10 drop=0
+[346221] DHT: T=27.8C H=50.4%
+[346254] HB: safety beat=16903 state=DUNG mqtt=UP queue=0/10 drop=0
+[348221] DHT: T=27.8C H=50.3%
+[348254] HB: safety beat=17003 state=DUNG mqtt=UP queue=0/10 drop=0
+[350221] DHT: T=27.8C H=50.3%
+[350254] HB: safety beat=17103 state=DUNG mqtt=UP queue=0/10 drop=0
+[352221] DHT: T=27.8C H=50.2%
+[352254] HB: safety beat=17203 state=DUNG mqtt=UP queue=0/10 drop=0
+[354221] DHT: T=27.8C H=50.3%
+[354254] HB: safety beat=17303 state=DUNG mqtt=UP queue=0/10 drop=0
+[356221] DHT: T=27.8C H=50.4%
+[356254] HB: safety beat=17403 state=DUNG mqtt=UP queue=0/10 drop=0
+[358221] DHT: T=27.8C H=50.4%
+[358254] HB: safety beat=17503 state=DUNG mqtt=UP queue=0/10 drop=0
+[360221] DHT: T=27.8C H=50.3%
+[360254] HB: safety beat=17603 state=DUNG mqtt=UP queue=0/10 drop=0
+[362221] DHT: T=27.8C H=50.3%
+[362254] HB: safety beat=17703 state=DUNG mqtt=UP queue=0/10 drop=0
+[364221] DHT: T=27.8C H=50.4%
+[364254] HB: safety beat=17803 state=DUNG mqtt=UP queue=0/10 drop=0
